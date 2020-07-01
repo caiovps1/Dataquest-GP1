@@ -1,4 +1,4 @@
-# Profitable App Profiles for the App Store and Google Play Markets
+# Profitable Free App Profiles for the App Store and Google Play Markets
 
 ## About the repository
 
